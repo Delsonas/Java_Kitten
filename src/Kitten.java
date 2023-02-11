@@ -1,5 +1,6 @@
 public interface Kitten
 {
-    void sound();
-    void comeToMe();
+    double weight();
+    String sound();
+    String comeToMe();
 }
